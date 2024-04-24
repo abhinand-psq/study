@@ -1,9 +1,10 @@
 .sample{
 display: flex;
 justify-self: end; 
-background-color: blue;
+background-color: palevioletred;
 width: 100%;
 color: white;
+font-weight: bolder;
 height: 100px;
 }
 .main{width: 100%;}
