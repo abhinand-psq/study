@@ -5,8 +5,9 @@
   "main": "index.js",
   "types": "test.d.ts",
   "scripts": {
-    "test": "jest",
-    "start": "http-server"
+     "test":"jest",
+    "start": "http-server",
+    "new":"node sample.js"
 
   },
   "author": "abhinand",
