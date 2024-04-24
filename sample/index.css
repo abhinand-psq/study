@@ -1,5 +1,8 @@
 .sample{
     display: flex;
-   justify-self: end;  
+   justify-self: end; 
+background-color: blue;
+width: 100%;
+height: 100px;
 }
 .main{width: 100%;}
