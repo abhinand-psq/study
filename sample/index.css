@@ -1,0 +1,5 @@
+.sample{
+    display: flex;
+   justify-self: end;  
+}
+.main{width: 100%;}
