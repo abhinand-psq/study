@@ -1,0 +1,17 @@
+{
+  "name": "testing",
+  "version": "1.0.1", 
+  "description": "a sample testing module",
+  "main": "index.js",
+  "types": "test.d.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "http-server"
+
+  },
+  "author": "abhinand",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
