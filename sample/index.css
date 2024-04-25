@@ -1,10 +1,20 @@
 .sample{
 display: flex;
-justify-self: end; 
-background-color: palevioletred;
-width: 100%;
+justify-content: space-evenly;
+background-color:black;
 color: white;
 font-weight: bolder;
 height: 100px;
 }
+
 .main{width: 100%;}
+
+.sample1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.sample1 p{
+    margin-left: 5px;
+}
