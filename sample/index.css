@@ -26,3 +26,26 @@ height: 100px;
 .sample1 p,a{
     margin-left: 5px;
 }
+
+.mainsec{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainsec .one{
+    height: 100vh;
+    flex: 1;
+    background-color: red;
+}
+.mainsec .two{
+    height: 100vh;
+    flex: 1;
+    background-color: bisque;
+}
+
+.mainsec .three{
+    height: 100vh;
+    flex: 2;
+    background-color:cornsilk;
+}
+
